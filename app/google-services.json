@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "784255263596",
+    "project_id": "dzikir-b6ce7",
+    "storage_bucket": "dzikir-b6ce7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784255263596:android:e7c94aac8db92db7fb0949",
+        "android_client_info": {
+          "package_name": "com.r10.lail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784255263596-to4mt18knn7odpue57khn554kvfa7vr0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.r10.lail",
+            "certificate_hash": "bf1293da1c5b1fe8794262d4658645406ecf9d12"
+          }
+        },
+        {
+          "client_id": "784255263596-mgv8e7p6ufrld13iofvpevq0ll0jg8kt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWo3mIuYNbdUzQbk-WA1KSBen-nmI95kE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784255263596-mgv8e7p6ufrld13iofvpevq0ll0jg8kt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

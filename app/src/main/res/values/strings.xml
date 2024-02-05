@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ayo Dzikir</string>
+    <string name="hadist">فَسُبْحٰنَ اللّٰهِ حِيْنَ تُمْسُوْنَ وَحِيْنَ تُصْبِحُوْنَ</string>
+    <string name="arab">الذكر</string>
+    <string name="text">Dzikir pagi Dan Dzikir Petang</string>
+    <string name="arti">“Maka bertasbihlah kepada Allah di waktu kamu berada di sore hari dan waktu kamu berada di waktu pagi hari” (QS. Ar-Rum: 17)</string>
+    <string name="texs1">Kami senang melihat Anda kembali Silakan masuk</string>
+    <string name="text2">Ayo lanjutkan dengan login</string>
+</resources>
